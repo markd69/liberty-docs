@@ -10,16 +10,16 @@ Here are the commands that Liberty offers!
 | ban [user] <reason> | • Ban a user from your guild. |
 clear <user> <amount> | • Delete messages based on parimeter.
 clearhistory [user] | • Prune a user's punishment history.
-history [user] • View a user's punishment history.
-id [user] • Recieve given user's id.
-kick [user] <reason> • Kick given user from your guild.
-mute [user] [reason] • Revoke chat permissions for a user in your guild.
-report [user] [reason] • Report a user to staff.
-tempmute [user] [time] [reason] • Temporarily revoke chat permissions for a user.
-unmute [user] <reason> • Unmute a user from chat and voice.
-vcmute [user] [reason] • Mute a user via voice channels in a guild.
-warn [user] [reason] • Warn a user within a guild.
-warnings [user] • View a user's warning log.
+history [user] | • View a user's punishment history.
+id [user] | • Recieve given user's id.
+kick [user] <reason> | • Kick given user from your guild.
+mute [user] [reason] | • Revoke chat permissions for a user in your guild.
+report [user] [reason] | • Report a user to staff.
+tempmute [user] [time] [reason] | • Temporarily revoke chat permissions for a user.
+unmute [user] <reason> | • Unmute a user from chat and voice.
+vcmute [user] [reason] | • Mute a user via voice channels in a guild.
+warn [user] [reason] | • Warn a user within a guild.
+warnings [user] | • View a user's warning log.
 
 ## NSFW
 | Command | Description | Guide |
