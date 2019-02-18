@@ -22,12 +22,10 @@ warn [user] [reason] | • Warn a user within a guild.
 warnings [user] | • View a user's warning log.
 
 ## NSFW
-| Command | Description | Guide |
-| ------- | ----------- | ----- |
-| -new | Create a new ticket | [click](#new-ticket-command) |
-| -close | Close the ticket you're currently in | [click](#close-ticket-command) |
-| -add | Add a user to a ticket | [click](#add-to-ticket-command) |
-| -info | Get the info of a ticket | [click](#info-command) |
+| Command | Description |
+| ------- | ----------- |
+| nsfw | • Toggle the NSFW module, on or off.
+random | • Generate a random nude.
 
 ## Configuration
 | Command | Description | Guide |
