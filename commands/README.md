@@ -2,15 +2,26 @@
 title: Commands
 ---
 # Commands
-Here there are guides or explanations for every command that Tickety has.
+Here are the commands that Liberty offers!
 
-## General Commands
-| Command | Description | Guide |
-| ------- | ----------- | ----- |
-| -help | Show the help menu | [click](#help-command) |
-| -about | Get to know me :smirk: | [click](#about-command) |
+## Moderation
+| Command | Description |
+| ------- | ----------- |
+| ban [user] <reason> | • Ban a user from your guild. |
+clear <user> <amount> | • Delete messages based on parimeter.
+clearhistory [user] | • Prune a user's punishment history.
+history [user] • View a user's punishment history.
+id [user] • Recieve given user's id.
+kick [user] <reason> • Kick given user from your guild.
+mute [user] [reason] • Revoke chat permissions for a user in your guild.
+report [user] [reason] • Report a user to staff.
+tempmute [user] [time] [reason] • Temporarily revoke chat permissions for a user.
+unmute [user] <reason> • Unmute a user from chat and voice.
+vcmute [user] [reason] • Mute a user via voice channels in a guild.
+warn [user] [reason] • Warn a user within a guild.
+warnings [user] • View a user's warning log.
 
-## User Ticket Commands
+## NSFW
 | Command | Description | Guide |
 | ------- | ----------- | ----- |
 | -new | Create a new ticket | [click](#new-ticket-command) |
@@ -18,14 +29,14 @@ Here there are guides or explanations for every command that Tickety has.
 | -add | Add a user to a ticket | [click](#add-to-ticket-command) |
 | -info | Get the info of a ticket | [click](#info-command) |
 
-## Admin Ticket Commands
+## Configuration
 | Command | Description | Guide |
 | ------- | ----------- | ----- |
 | -rename | Rename a ticket | [click](#rename-ticket-command) |
 | -transcript | Get the transcript of a ticket, in html or txt format | [click](#transcript-command) |
 | -forceclose | Force close a bugged ticket | [click](#force-close-command) |
 
-## Moderation Commands
+## Music
 ::: warning
 If you would like to disable these commands for your admins, please see [this command](#setmoderation).
 :::
@@ -39,7 +50,7 @@ If you would like to disable these commands for your admins, please see [this co
 | -ban | Ban a user from the server | [click](#ban-command) |
 | -mute | Mute a user on the server | [click](#mute-command) |
 
-## Configuration Commands
+## Misc. Commands
 | Command | Description | Guide |
 | ------- | ----------- | ----- |
 | -setlog | Set the logging channel | [click](#set-log-command) |
